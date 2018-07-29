@@ -1,5 +1,6 @@
 # github-merge-bot-test
 
+Peach
 Strawberry
 Pineapple
 Banana
