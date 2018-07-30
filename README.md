@@ -19,3 +19,4 @@ Apricot
 Lime
 Melon
 Plum
+Cantaloupe
