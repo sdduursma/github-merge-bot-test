@@ -10,7 +10,6 @@ Banana
 Apple
 Pear
 Ananas
-Mango
 Orange
 Blueberry
 Blackberry
