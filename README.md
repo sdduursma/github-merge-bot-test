@@ -16,4 +16,3 @@ Blackberry
 Lemon
 Apricot
 Lime
-Melon
